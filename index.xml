@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2024 17:04:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Tue, 18 Jun 2024 17:04:08 +0800</pubDate>
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>Hello！ Link to heading Hi，我是饶熙文。&#xA;关于我： Link to heading 我是一个半吊子，基本上什么事情都只会做一半，并且不会钻研下去。目前最懂的跟初中时一模一样，还是胶卷摄影、苹果产品和Taylor Swift。 朋友方面：希望在一天生活里少讨厌一点我的朋友，能和大家和睦地互帮互助相处下去 生活方面：是多读多学多写，多利用个人时间，少自恋，接受普通人的生活。希望 文章方面：想尝试多一些方面的内容，例如影评，&#xA;关于网站： Link to heading “You’ve been Rerouted”的名字取自我的个人公众号“妖魔鬼怪请绕道”，在公众号里会多少有一些我个人生活的分享，以及记录我脑洞大开的一些瞬间。目前写了十几篇文章，主要是来 妖魔鬼怪请绕道，绕道是哈哈哈</description>
+    </item>
+  </channel>
+</rss>
