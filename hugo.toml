@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'You've Been Rerouted'
+theme = 'hugo-coder'
+defaultContentLanguage = "zh-cn"
+enableEmoji = true
+
+[params]
+    author = "Xiwen Rao"
+    info = "You've Been Rerouted"
+    description = "Xiwen Rao's Blog'"
+    
+    
+[[menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
